@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Light</string>
+
+    <!--    Button text-->
+    <string name="Btn_text">Let me See</string>
+
+</resources>
